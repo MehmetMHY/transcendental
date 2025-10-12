@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="225" src="./logo.png">
+  <img width="350" src="./logo.png">
 </div>
 
-<h1 align="center">Irrational Pi Algorithm Art</h1>
+<h1 align="center">Irrational Pi - Algorithm Art</h1>
 
 ## Credit & Inspiration
 
